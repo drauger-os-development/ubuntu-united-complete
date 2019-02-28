@@ -1,0 +1,10 @@
+Package: ubuntu-united-complete
+Version: 0.0.1
+Maintainer: Thomas Castleman <contact@draugeros.ml>
+Section: graphics
+Homepage: https://github.com/drauger-os-development/ubuntu-united-complete
+Architecture: all
+Priority: optional
+Depends: gtk2-engines-pixbuf (>=2.24.32-1ubuntu1), gtk2-engines-murrine (>=0.98.2-2ubuntu1)
+Description: GTK 2/3 themes for Ubuntu-based Distros
+ Initially made for Gnome, Ubuntu United works and looks great on any GTK based DE, from LXDE and Xfce to Budgie and Pantheon.
